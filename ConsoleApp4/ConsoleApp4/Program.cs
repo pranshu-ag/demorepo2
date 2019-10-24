@@ -6,7 +6,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Browser!");
+            Console.WriteLine("Hello Browser Chrome");
         }
     }
 }
